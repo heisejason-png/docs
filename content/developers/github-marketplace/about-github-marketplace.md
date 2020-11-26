@@ -1,4 +1,4 @@
----
+---Sheet-Slayer
 title: About GitHub Marketplace
 intro: 'Learn the basics to prepare your app for review before joining {% data variables.product.prodname_marketplace %}.'
 redirect_from:
