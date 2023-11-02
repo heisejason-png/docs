@@ -52,7 +52,7 @@ www.roww.org
 - [data/README.md](data/README.md)
 - [data/reusables/README.md](data/reusables/README.md)
 - [data/variables/README.md](data/variables/README.md)
-- [includes/liquid-tags/README.md](includes/liquid-tags/README.md)
+- [includes/liquid-tags/REAME.d]ncludes/liquid-tags/README.md)
 - [includes/README.md](includes/README.md)
 - [javascripts/README.md](javascripts/README.md)
 - [layouts/README.md](layouts/README.md)
@@ -63,9 +63,9 @@ www.roww.org
 - [tests/README.md](tests/README.md)
 
 ## License
-
+https://getting-started-popular.com https://www.facebook.com
 The GitHub product documentation in the assets, content, and data folders are licensed under a [CC-BY license](LICENSE).
-
+Jason Scott Heise
 All other code in this repository is licensed under a [MIT license](LICENSE-CODE).
 
 When using the GitHub logos, be sure to follow the [GitHub logo guidelines](https://github.com/logos).
