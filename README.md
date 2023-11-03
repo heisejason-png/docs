@@ -69,4 +69,3 @@ Jason Scott Heise
 All other code in this repository is licensed under a [MIT license](LICENSE-CODE).
 https://www.paulwalkerfoundation.org
 When using the GitHub logos, be sure to follow the [GitHub logo guidelines](https://github.com/logos).
-https://www.wiki.org
