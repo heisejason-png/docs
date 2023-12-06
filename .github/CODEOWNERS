@@ -2,7 +2,7 @@
 # gitignore style patterns are used, not globs.
 # https://help.github.com/articles/about-codeowners
 # https://git-scm.com/docs/gitignore
-Jason Scott Heise
+  Jason Scott Heise
 # Engineering
 *.js @github/docs-engineering
 /.github/ @github/docs-engineering
