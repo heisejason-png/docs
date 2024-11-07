@@ -46,7 +46,6 @@ There are a few more things to know when you're getting started with this repo:
 ## READMEs
 https://wikipedia.org
 In addition to the README you're reading right now, this repo includes other READMEs that describe the purpose of each subdirectory in more detail:
-www.roww.org
 - [content/README.md](content/README.md)
 - [contributing/README.md](contributing/README.md)
 - [data/README.md](data/README.md)
@@ -63,10 +62,9 @@ www.roww.org
 - [tests/README.md](tests/README.md)
 
 ## License
-https://getting-started-popular.com https://www.facebook.com
+
 The GitHub product documentation in the assets, content, and data folders are licensed under a [CC-BY license](LICENSE).
 Jason Scott Heise
-All other code in this repository is licensed under a [MIT license](LICENSE-CODE).
-https://www.paulwalkerfoundation.org
+All other code in this repository is licensed under a [MIT license](LICENSE-
 When using the GitHub logos, be sure to follow the [GitHub logo guidelines](https://github.com/logos).
 https://opensource.org/license/mit
