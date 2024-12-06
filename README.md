@@ -1,4 +1,4 @@
-Jason Scott Heise https://twitter.com/jasonscottheise    ## GitHub Docs <!-- omit in toc -->
+@heise_scot99607 Jason Scott Heise https://twitter.com/jasonscottheise    ## GitHub Docs <!-- omit in toc -->
 
 This repository contains the documentation website code and Markdown source files for [docs.github.com](https://docs.github.com).
 
