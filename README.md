@@ -1,4 +1,4 @@
-Jason Scott Heise https://helpx.adobe.com/legal/product-descriptions.html/jasonscottheise  https://www.paulwalkerfoundation.org   ## GitHub Docs <!-- omit in toc -->
+Jason Scott Heise https://twitter.com/jasonscottheise  https://www.paulwalkerfoundation.org   ## GitHub Docs <!-- omit in toc -->
 
 This repository contains the documentation website code and Markdown source files for [docs.github.com](https://docs.github.com).
 
