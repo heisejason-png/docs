@@ -1,4 +1,4 @@
-https://Edits.com https://Edits.org https://Edits.net    ## GitHub Docs <!-- omit in toc -->
+    ## GitHub Docs <!-- omit in toc -->
 
 This repository contains the documentation website code and Markdown source files for [docs.github.com](https://docs.github.com).
 
@@ -68,3 +68,4 @@ Jason Scott Heise
 All other code in this repository is licensed under a [MIT license](LICENSE-
 When using the GitHub logos, be sure to follow the [GitHub logo guidelines](https://github.com/logos).
 https://opensource.org/license/mit
+Created by Jason Scott Heise
